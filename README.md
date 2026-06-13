@@ -58,11 +58,18 @@ npx wrangler dev
 
 Lucineer is the companion application to LucidDreamer AI — same deployment pattern (Cloudflare Worker, single HTML response), different aesthetic and focus. Lucineer emphasizes practice tracking; LucidDreamer emphasizes dream journaling. Both serve the SuperInstance web portfolio. In **γ + η = C**, serverless deployment eliminates infrastructure γ entirely. See [Architecture](https://github.com/SuperInstance/SuperInstance/blob/main/ARCHITECTURE.md).
 
+**Dream sign methodology**: Dream signs are recurring elements in dreams — themes, locations, people, or situations that appear repeatedly. Lucineer tracks these with occurrence counts, enabling data-driven trigger selection. The technique: when you encounter a dream sign while awake (e.g., a house with unusual architecture), perform a reality check. This conditional habit is far more effective than random checks because it targets your personal dream patterns.
+
+**Progress tracking**: The monthly lucid rate chart provides long-term feedback. Rather than focusing on individual dream success/failure, the trend line reveals whether overall practice is working. A 2.3× improvement over four months (12% → 28%) represents realistic, sustainable progress.
+
+**SSILD technique**: Unique to Lucineer (not in LucidDreamer), the Senses Initiated Lucid Dream method cycles through visual, auditory, and tactile focus after WBTB. This community-developed technique is widely validated in practice forums and has shown high success rates for beginners.
+
 ## References
 
 - LaBerge, S. & Rheingold, H. *Exploring the World of Lucid Dreaming*, Ballantine (1990).
 - Stumbrys, T. et al. "Induction of Lucid Dreams: A Systematic Review," IJoDR (2012).
 - Cloudflare Workers Documentation. https://developers.cloudflare.com/workers/
+- Spoormaker, V. & van den Bout, J. "Lucid Dreaming Treatment for Nightmares," Psychotherapy and Psychosomatics (2006).
 
 ## License
 
